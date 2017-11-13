@@ -1,3 +1,14 @@
 <resources>
     <string name="app_name">QuizApp</string>
+
+    <string name="Q1_statement">Q1: 7 + 8 = </string>
+    <string name="Q1_checkbox_A">15</string>
+    <string name="Q1_checkbox_B">10</string>
+    <string name="Q1_checkbox_C">19</string>
+    <string name="Q1_checkbox_D">14</string>
+
+    <string name="Q2_statement" >Q2: 6 + 6 = </string>
+
+    <string name="Q3_statement">Q3: Is 4 * 4 = 16 ?</string>
+
 </resources>
